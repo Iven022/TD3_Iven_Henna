@@ -1,7 +1,7 @@
 from mulTwolnt import mul
 
-a="x"
-while((a!="y") or (a!="q")):
+a="y"
+while((a=="y") or (a=="q")):
 	a=input("Pour multiplier appuyez sur la touch y, pour quitter appuyez q" + " ")
 	if (a=="y"):
 		try:
@@ -14,3 +14,4 @@ while((a!="y") or (a!="q")):
 		break
 	else:
 		print("Entrez invalide")
+		a="y"
