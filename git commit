@@ -1,0 +1,86 @@
+[33mcommit 1a13ccecf1e4dd5198b05a854ef36596bbe153da[m[33m ([m[1;36mHEAD -> [m[1;32mintegration[m[33m)[m
+Author: Iven022 <ivenmoonienxd@gmail.com>
+Date:   Wed Mar 11 14:47:35 2020 +0400
+
+    Last version
+
+[33mcommit 06b592325c1ea784e67f403b128eea5e79f1cc97[m[33m ([m[1;31morigin/integration[m[33m)[m
+Merge: 1c21ead a21b9ef
+Author: Iven022 <ivenmoonienxd@gmail.com>
+Date:   Wed Mar 11 14:02:01 2020 +0400
+
+    Merge branch 'integration' of https://github.com/Iven022/TD3_Iven_Henna into integration
+
+[33mcommit 1c21ead6734c18021401bdfd5f2d5b7d1bfa3338[m
+Author: Iven022 <ivenmoonienxd@gmail.com>
+Date:   Wed Mar 11 13:32:45 2020 +0400
+
+    Pushing add function into main
+
+[33mcommit a21b9efca9f907198f26f5c28e6bf8175463ab57[m
+Author: henna19 <hennarahman4@outlook.com>
+Date:   Wed Mar 11 11:33:43 2020 +0400
+
+    integration
+
+[33mcommit 03744d0d08f9788d607e2a05889b70df883fc289[m
+Author: henna19 <hennarahman4@outlook.com>
+Date:   Wed Mar 11 01:07:57 2020 +0400
+
+    integration
+
+[33mcommit 1403a59f2679097835eecacc2f4e61109edea76b[m
+Author: Iven022 <ivenmoonienxd@gmail.com>
+Date:   Tue Mar 10 21:57:42 2020 +0400
+
+    Main.py
+
+[33mcommit b105d59133546c7c2b9e2aba6c4ecf0dbbd7674f[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Merge: 94f4a62 8b36593
+Author: Iven022 <ivenmoonienxd@gmail.com>
+Date:   Tue Mar 10 21:39:10 2020 +0400
+
+    Merge branch 'dev' of https://github.com/Iven022/TD3_Iven_Henna into dev
+    This is being done to merge add and mul to dev
+
+[33mcommit 8b36593d1cab101c5c06916e7e9d64118f8d0a1d[m
+Author: henna19 <hennarahman4@outlook.com>
+Date:   Tue Mar 10 21:03:37 2020 +0400
+
+    commit No13
+
+[33mcommit 94f4a62624dc96488af86da6efd5f4cce9e2dd0e[m[33m ([m[1;33mtag: va0.3[m[33m, [m[1;32madd[m[33m)[m
+Author: Iven022 <ivenmoonienxd@gmail.com>
+Date:   Tue Mar 10 20:29:25 2020 +0400
+
+    Asking user to add more values
+
+[33mcommit 4e773e67f5f534525df2a3095f46086cc1ed3eeb[m
+Author: henna19 <hennarahman4@outlook.com>
+Date:   Tue Mar 10 20:25:51 2020 +0400
+
+    commit pour no11
+
+[33mcommit 861c016298757f2f0d8bbc5248d6dab1cf554467[m[33m ([m[1;33mtag: va0.2[m[33m)[m
+Author: Iven022 <ivenmoonienxd@gmail.com>
+Date:   Tue Mar 10 20:09:53 2020 +0400
+
+    Error messages updated
+
+[33mcommit caa98ba96def2a84fe838d3bfe0ae5301a85e6b7[m
+Author: henna19 <hennarahman4@outlook.com>
+Date:   Tue Mar 10 20:09:43 2020 +0400
+
+    commit pour No9
+
+[33mcommit de5ec4e359f9c40c090aed2a047842056488986a[m[33m ([m[1;33mtag: va0.1[m[33m)[m
+Author: Iven022 <ivenmoonienxd@gmail.com>
+Date:   Tue Mar 10 19:54:13 2020 +0400
+
+    Pushing add function with main testing
+
+[33mcommit 29dccf50eb4f26c386f1edab11c50187038d3267[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Iven022 <61411888+Iven022@users.noreply.github.com>
+Date:   Tue Mar 10 19:32:39 2020 +0400
+
+    Initial commit
